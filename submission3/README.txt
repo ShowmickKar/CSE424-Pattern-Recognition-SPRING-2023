@@ -15,16 +15,18 @@ Jurafsky
 Pearson
 
 Link to the book:
-https://amazon.com/...
+https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf
 
 Link to the book chapter:
 https://books.google.com/books...
 
-Group Number:
-0
+Project title:
+Twitter Hate Speech Detection
+Group Number: 17
+
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
+20301177 Showmick Kar
+20301190 Sajidul Islam Khandaker
+20301412 Tahmina Talukdar
+20301162 Shakil Anawar
